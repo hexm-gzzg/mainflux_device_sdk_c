@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/main.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/main.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/main.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/device.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/device.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/device.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/parson.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/parson.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/parson.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/senml.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/senml.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/senml.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/rest.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/rest.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/rest.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/correlation.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/correlation.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/correlation.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/iot.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/iot.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/iot.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/yxml.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/yxml.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/yxml.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/base64.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/base64.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/base64.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/logger.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/logger.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/logger.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/threadpool.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/threadpool.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/threadpool.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/config.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/config.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/config.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/json.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/json.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/json.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/hash.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/hash.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/hash.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/component.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/component.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/component.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/os.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/os.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/os.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/scheduler.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/scheduler.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/scheduler.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/data.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/data.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/data.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/container.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/container.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/container.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/thread.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/thread.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/thread.c"
+},
+{
+  "directory": "/development/edge/dev_mainflux/mainflux-sdk-c/c",
+  "command": "/usr/bin/cc   -I/development/edge/dev_mainflux/mainflux-sdk-c/src/c/../../include   -Wall -Wstrict-prototypes -Wmissing-prototypes -Werror=implicit-function-declaration -pthread -pipe -D_GNU_SOURCE -O3 -DNDEBUG   -std=c11 -o CMakeFiles/cdevice.dir/iot/time.c.o   -c /development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/time.c",
+  "file": "/development/edge/dev_mainflux/mainflux-sdk-c/src/c/iot/time.c"
+}
+]

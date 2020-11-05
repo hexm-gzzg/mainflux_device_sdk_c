@@ -1,0 +1,6 @@
+find_path (jansson_INCLUDE_DIR MQTTClient.h )
+find_library (jansson_LIBRARIES jansson)
+message(jansson_LIBRARIES ----- ${jansson_LIBRARIES})
+message(jansson_INCLUDE_DIR ----- ${jansson_INCLUDE_DIR})
+include (FindPackageHandleStandardArgs)
+find_package_handle_standard_args (jansson DEFAULT_MSG jansson_LIBRARIES jansson_INCLUDE_DIR)

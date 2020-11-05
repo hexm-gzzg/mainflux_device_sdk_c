@@ -1,0 +1,17 @@
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/edit_cache.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/package_source.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/rebuild_cache.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/package.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/install/strip.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/install/local.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/list_install_components.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/CMakeFiles/install.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/package_source.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/rebuild_cache.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/package.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/edit_cache.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/cdevice.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/install/strip.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/install/local.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/list_install_components.dir
+/development/edge/dev_mainflux/mainflux-sdk-c/c/CMakeFiles/install.dir
