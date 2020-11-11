@@ -31,7 +31,7 @@ CSDK_HAVE_ATOMIC)
 # Set default files to compile and libraries
 
 file (GLOB C_FILES *.c iot/*.c)
-set (LINK_LIBRARIES ${CURL_LIBRARIES} ${paho-mqtt3c_LIBRARIES})
+set (LINK_LIBRARIES ${CURL_LIBRARIES} ${paho-mqtt3c_LIBRARIES} ${LIBUUID_LIBRARIES}) 
 if (NOT CSDK_HAVE_ATOMIC)
   list (APPEND LINK_LIBRARIES atomic)
 endif ()
